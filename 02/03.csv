@@ -1,0 +1,144 @@
+"0802.0257","Markus Perling","Markus Perling, Guenther Trautmann","Equivariant Primary Decomposition and Toric Sheaves","35 pages, requires packages ams*, enumerate, xy; partially rewritten,
+  includes primary decomposition for general varieties admitting a homogeneous
+  coordinate ring. to appear in manuscripta math","manuscripta math. 132(1-2), 103-143, 2010",,,"math.AG math.AC","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We study global primary decompositions in the category of sheaves on a scheme
+which are equivariant under the action of an algebraic group. We show that
+equivariant primary decompositions exist if the group is connected. As main
+application we consider the case of varieties which are quotients of a
+quasi-affine variety by the action of a diagonalizable group and thus admit a
+homogeneous coordinate ring, such as toric varieties. Comparing these
+decompositions with primary decompositions of graded modules over the
+homogeneous coordinate ring, we show that these are equivalent if the action of
+the diagonalizable group is free. We give some specific examples for the case
+of toric varieties.
+","[{""version"":""v1"",""created"":""Sat, 2 Feb 2008 16:19:28 GMT""},{""version"":""v2"",""created"":""Thu, 21 Jan 2010 10:48:40 GMT""}]","2012-01-30"
+"0802.0258","Aymeric Fouquier d'Herouel","Aymeric Fouquier d'H\'erou\""el","QPS -- quadratic programming sampler, a motif finder using biophysical
+  modeling","5 pages, 3 figures",,,,"q-bio.QM q-bio.GN",,"  We present a Markov chain Monte Carlo algorithm for local alignments of
+nucleotide sequences aiming to infer putative transcription factor binding
+sites, referred to as the quadratic programming sampler. The new motif finder
+incorporates detailed biophysical modeling of the transcription factor binding
+site recognition which arises an intrinsic threshold discriminating putative
+binding sites from other/background sequences. We validate the principal
+functioning of the algorithm on a sample of four promoter regions from
+Escherichia coli. The resulting description of the motif can be readily
+evaluated on the whole genome to identify new putative binding sites.
+","[{""version"":""v1"",""created"":""Sat, 2 Feb 2008 16:57:58 GMT""}]","2008-02-05"
+"0802.0260","Ritabrata Sengupta","L. Jeganathan, R. Rama, Ritabrata Sengupta","A proposal to a generalised splicing with a self assembly approach","8 pages, 3 figures",,,,"cs.DM",,"  Theory of splicing is an abstract model of the recombinant behaviour of DNAs.
+In a splicing system, two strings to be spliced are taken from the same set and
+the splicing rule is from another set. Here we propose a generalised splicing
+(GS) model with three components, two strings from two languages and a splicing
+rule from third component. We propose a generalised self assembly (GSA) of
+strings. Two strings $u_1xv_1$ and $u_2xv_2$ self assemble over $x$ and
+generate $u_1xv_2$ and $u_2xv_1$. We study the relationship between GS and GSA.
+We study some classes of generalised splicing languages with the help of
+generalised self assembly.
+","[{""version"":""v1"",""created"":""Sat, 2 Feb 2008 17:12:45 GMT""}]","2008-02-05"
+"0802.0261","Andrew Haas","Andrew Haas","Geodesic excursions into an embedded disc on a hyperbolic Riemann
+  surface","5 pages","Conform. Geom. Dyn. 13 (2009), 1-5.",,,"math.GT math.DS",,"  We calculate the asymptotic average rate at which a generic geodesic on a
+finite area hyperbolic 2-orbifold returns to an embedded disc on the surface,
+as well as the average amount of time it spends in the disc during each visit.
+This includes the case where the center of the disc is a cone point.
+","[{""version"":""v1"",""created"":""Sat, 2 Feb 2008 17:18:56 GMT""}]","2009-04-21"
+"0802.0262","Robert Seaman","Robert Seaman","Thread Safe Astronomy","4 pages, 1 figure, to appear in proceedings of Hot-wiring the
+  Transient Universe (HTU) 2007, Astronomische Nachrichten, March 2008",,"10.1002/asna.200710960",,"astro-ph",,"  Observational astronomy is the beneficiary of an ancient chain of
+apprenticeship. Kepler's laws required Tycho's data. As the pace of discoveries
+has increased over the centuries, so has the cadence of tutelage (literally,
+""watching over""). Naked eye astronomy is thousands of years old, the telescope
+hundreds, digital imaging a few decades, but today's undergraduates will use
+instrumentation yet unbuilt - and thus, unfamiliar to their professors - to
+complete their doctoral dissertations. Not only has the quickening cadence of
+astronomical data-taking overrun the apprehension of the science within, but
+the contingent pace of experimental design threatens our capacity to learn new
+techniques and apply them productively. Virtual technologies are necessary to
+accelerate our human processes of perception and comprehension to keep up with
+astronomical instrumentation and pipelined dataflows. Necessary, but not
+sufficient. Computers can confuse us as efficiently as they illuminate. Rather,
+as with neural pathways evolved to meet competitive ecological challenges,
+astronomical software and data must become organized into ever more coherent
+""threads"" of execution. These are the same threaded constructs as understood by
+computer science. No datum is an island.
+","[{""version"":""v1"",""created"":""Sat, 2 Feb 2008 17:47:16 GMT""}]","2009-11-13"
+"0802.0263","Stefano Ettori","Stefano Ettori, Fabrizio Brighenti","On the evolution of cooling cores in X-ray galaxy clusters","8 pages. MNRAS in press",,"10.1111/j.1365-2966.2008.13054.x",,"astro-ph",,"  (Abridged) To define a framework for the formation and evolution of the
+cooling cores in X-ray galaxy clusters, we study how the physical properties
+change as function of the cosmic time in the inner regions of a 4 keV and 8 keV
+galaxy cluster under the action of radiative cooling and gravity only. The
+cooling radius, R_cool, defined as the radius at which the cooling time equals
+the Universe age at given redshift, evolves from ~0.01 R200 at z>2, where the
+structures begin their evolution, to ~0.05 R200 at z=0. The values measured at
+0.01 R200 show an increase of about 15-20 per cent per Gyr in the gas density
+and surface brightness and a decrease with a mean rate of 10 per cent per Gyr
+in the gas temperature. The emission-weighted temperature diminishes by about
+25 per cent and the bolometric X-ray luminosity rises by a factor ~2 after 10
+Gyrs when all the cluster emission is considered in the computation. On the
+contrary, when the core region within 0.15 R500 is excluded, the gas
+temperature value does not change and the X-ray luminosity varies by 10-20 per
+cent only. The cooling time and gas entropy radial profiles are well
+represented by power-law functions. The behaviour of the inner slopes of the
+gas temperature and density profiles are the most sensitive and unambiguous
+tracers of an evolving cooling core. Their values after 10 Gyrs of radiative
+losses, T_gas ~ r^0.4 and n_gas ~ r^(-1.2) for the hot (cool) object, are
+remarkably in agreement with the observational constraints available for nearby
+X-ray luminous cooling core clusters. Because our simulations do not consider
+any AGN heating, they imply that the feedback process does not greatly alter
+the gas density and temperature profiles as generated by radiative cooling
+alone.
+","[{""version"":""v1"",""created"":""Sat, 2 Feb 2008 18:13:26 GMT""}]","2009-11-13"
+"0802.0264","S\'ilvio Duarte Queir\'os M.","Sabir Umarov, Silvio M. Duarte Queiros","Functional-differential equations for $F_q$%-transforms of $q$-Gaussians","14 pages A new section on a related solution of the porous medium
+  equation in comparison with the previous version has been introduce","J. Phys. A: Math. Theor. 43, 095202 (2010)","10.1088/1751-8113/43/9/095202",,"cond-mat.stat-mech math-ph math.FA math.MP","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  In the paper the question - Is the q-Fourier transform of a q-Gaussian a
+q'-Gaussian (with some q') up to a constant factor? - is studied for the whole
+range of $q\in (-\infty, 3)$. This question is connected with applicability of
+the q-Fourier transform in the study of limit processes in nonextensive
+statistical mechanics. We prove that the answer is affirmative if and only if q
+> 1, excluding two particular cases of q<1, namely, q = 1/2 and q = 2/3, which
+are also out of the theory valid for q \ge 1. We also discuss some applications
+of the q-Fourier transform to nonlinear partial differential equations such as
+the porous medium equation.
+","[{""version"":""v1"",""created"":""Sat, 2 Feb 2008 18:20:46 GMT""},{""version"":""v2"",""created"":""Tue, 8 Sep 2009 15:45:55 GMT""}]","2010-02-24"
+"0802.0265","Peter B. Gilkey","Peter B. Gilkey and Stana Nikcevic","Geometrical representations of equiaffine curvature operators",,,,,"math.DG",,"  We examine geometric representability results for various classes of
+equiaffine curvature operators. We show every Ricci flat algebraic curvature
+operator is geometrically realizable by a Ricci flat torsion free connection on
+the tangent bundle of some smooth manifold.
+","[{""version"":""v1"",""created"":""Sat, 2 Feb 2008 18:48:53 GMT""}]","2008-02-05"
+"0802.0266","Wlodek Bryc","Marek Bozejko, Wlodzimierz Bryc","A quadratic regression problem for two-state algebras with application
+  to the Central Limit Theorem",,"Infinite Dimensional Analysis, Quantum Probability and Related
+  Topics, 12 (2009), 231-249",,,"math.OA math.PR","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We extend a free version of the Laha-Lukacs theorem to probability spaces
+with two-states. We then use this result to generalize a noncommutative CLT of
+Kargin to the two-state setting.
+","[{""version"":""v1"",""created"":""Sat, 2 Feb 2008 18:58:44 GMT""},{""version"":""v2"",""created"":""Mon, 26 Jan 2009 22:10:05 GMT""}]","2009-07-31"
+"0802.0268","Rajarshi Chakrabarti","Rajarshi Chakrabarti","Transient State Work Fluctuation Theorem for a Driven Classical System",,,"10.1007/s12043-009-0060-5",,"cond-mat.stat-mech","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We derive the nonequilibrium transient state work fluctuation theorem and
+also the Jarzynski equality for a classical harmonic oscillator linearly
+coupled to a harmonic heat bath, which is dragged by an external agent.
+Coupling with the bath makes the dynamics not only dissipative but also
+non-Markovian in general. Since we do not assume anything about the spectral
+nature of the harmonic bath the derivation is not only restricted to the
+Markovian bath rather it is more general, for a non-Markovian bath.
+","[{""version"":""v1"",""created"":""Sun, 3 Feb 2008 15:20:05 GMT""}]","2012-07-09"
+"0802.0270","Mohamad Ali Jafarizadeh","M. A. Jafarizadeh, Y. Akbari, N. Behzadi","Two-qutrit Entanglement Witnesses and Gell-Mann Matrices","25 pages",,"10.1140/epjd/e2008-00041-3",,"quant-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The Gell-Mann $\lambda$ matrices for Lie algebra su(3) are the natural basis
+for the Hilbert space of Hermitian operators acting on the states of a
+three-level system(qutrit). So the construction of EWs for two-qutrit states by
+using these matrices may be an interesting problem. In this paper, several
+two-qutrit EWs are constructed based on the Gell-Mann matrices by using the
+linear programming (LP) method exactly or approximately. The decomposability
+and non-decomposability of constructed EWs are also discussed and it is shown
+that the $\lambda$-diagonal EWs presented in this paper are all decomposable
+but there exist non-decomposable ones among $\lambda$-non-diagonal EWs.
+","[{""version"":""v1"",""created"":""Sun, 3 Feb 2008 15:29:58 GMT""}]","2009-11-13"
+"0802.0271","Chunlei Liu","Chunlei Liu","Generic exponential sums associated to Laurent polynomials in one
+  variable",,,,,"math.NT math.AG","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Generic Newton polygons for L-functions of exponential sums associated to
+Laurent polynomials in one variable are determined. The corresponding Hasse
+polynomials are also determined.
+","[{""version"":""v1"",""created"":""Sun, 3 Feb 2008 15:30:12 GMT""},{""version"":""v2"",""created"":""Sat, 23 Aug 2008 01:58:02 GMT""},{""version"":""v3"",""created"":""Fri, 19 Sep 2008 05:43:38 GMT""}]","2008-09-19"
+"0802.0272","Synge Todo","Kouki Fukui and Synge Todo","Order-N Cluster Monte Carlo Method for Spin Systems with Long-range
+  Interactions","25 pages, 4 figures",,"10.1016/j.jcp.2008.12.022",,"cond-mat.stat-mech","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  An efficient O(N) cluster Monte Carlo method for Ising models with long-range
+interactions is presented. Our novel algorithm does not introduce any cutoff
+for interaction range and thus it strictly fulfills the detailed balance. The
+realized stochastic dynamics is equivalent to that of the conventional
+Swendsen-Wang algorithm, which requires O(N^2) operations per Monte Carlo sweep
+if applied to long-range interacting models. In addition, it is shown that the
+total energy and the specific heat can also be measured in O(N) time. We
+demonstrate the efficiency of our algorithm over the conventional method and
+the O(N log N) algorithm by Luijten and Bloete. We also apply our algorithm to
+the classical and quantum Ising chains with inverse-square ferromagnetic
+interactions, and confirm in a high accuracy that a Kosterlitz-Thouless phase
+transition, associated with a universal jump in the magnetization, occurs in
+both cases.
+","[{""version"":""v1"",""created"":""Sun, 3 Feb 2008 15:31:53 GMT""}]","2009-11-13"
